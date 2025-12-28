@@ -15,8 +15,8 @@
 ###
 
 <ul>
-  <li><p>👨‍🎓I'm studying at University of Vavuniya(Bsc.IT) & UCSC(B.IT)</p></li>
-  <li><p>🌱I'm learning Data Science | AI & ML engineering.</p></li>
+  <li><p>👨‍🎓I'm studying at <mark>University of Vavuniya(Bsc.IT) & UCSC(B.IT)</mark></p></li>
+  <li><p>🌱I'm learning <mark>Data Science | AI & ML engineering.</mark></p></li>
   <li><p>👯 I’m looking to collaborate.</p></li>
   <li><p>🤔 I’m looking for help with Coding.</p></li>
 </ul>
