@@ -19,12 +19,6 @@
 
 ###
 
-<p align="center">
-  <img src="https://pacman.vercel.app/areen-anshula" alt="Pac-Man GitHub Activity" />
-</p>
-
-
-
 <h2 align="left">I code with🛠 Skills & Technologies</h2>
 
 ###
