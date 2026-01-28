@@ -15,8 +15,7 @@
 ###
 
 <ul>
-  <li><p>👨‍🎓I'm studying at <mark>University of Vavuniya(Bsc.IT) & UCSC(B.IT)</mark></p></li>
-  <li><p>🌱I'm learning <mark>Data Science | AI & ML engineering.</mark></p></li>
+  <li><p>👨‍🎓I'm studying at <b>University of Vavuniya(Bsc.IT) & UCSC(B.IT)</b></p></li>
   <li><p>👯 I’m looking to collaborate.</p></li>
   <li><p>🤔 I’m looking for help with Coding.</p></li>
 </ul>
@@ -28,10 +27,7 @@
 ###
 
 <ul>
-  <li><p>📊 Data Science & AI/ML enthusiast</p></li>
-  <li><p>🧠 Building AI-powered systems</p></li>
-  <li><p>🌍 Solving real-world problems</p></li>
-  <li><p>📈 Always learning, always growing</p></li>
+  <li>Syytem Engineering</li>
 </ul>
 
 ###
