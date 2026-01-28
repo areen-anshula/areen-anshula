@@ -27,7 +27,7 @@
 ###
 
 <ul>
-  <li>Syytem Engineering</li>
+  <li>System Engineering</li>
 </ul>
 
 ###
