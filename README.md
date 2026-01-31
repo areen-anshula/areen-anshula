@@ -13,7 +13,7 @@
 ###
 
 <ul>
-  <li><p>👨‍🎓I'm studying at <b>University of Vavuniya(Bsc.IT) & UCSC(B.IT)</b></p></li>
+  <li><p>👨‍🎓I'm studying at <b>University of Vavuniya(Bsc.IT(Hons)) & UCSC(BIT)</b></p></li>
   <li><p>👯 I’m looking to collaborate.</p></li>
   <li><p>🤔 I’m looking for help with Coding.</p></li>
 </ul>
