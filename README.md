@@ -105,17 +105,6 @@
 
 ###
 
-<div align="center">
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=areen-anshula&show_icons=true&theme=tokyonight)
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/areen-anshula/areen-anshula/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/areen-anshula/areen-anshula/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/areen-anshula/areen-anshula/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
