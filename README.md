@@ -25,7 +25,8 @@
 ###
 
 <ul>
-  <li>System Engineering</li>
+  <li>AI Engineering</li>
+  <li>Cybersecurity</li>
 </ul>
 
 ###
