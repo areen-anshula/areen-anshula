@@ -83,6 +83,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
 
+
+<img src="https://github-profile-trophy.vercel.app/?username=areen-anshula&theme=juicyfresh&no-bg=true" />
+
 ###
 
 <h3 align="center">📩Contact me</h3>
