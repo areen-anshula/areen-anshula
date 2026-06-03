@@ -29,6 +29,20 @@ Beyond technical skills, I am deeply interested in entrepreneurship and the star
 
 ###
 
+<h2 align="left">📈Currently Learning :</h2>
+
+###
+
+<ul>
+  <li>Python for Machine Learning</li>
+  <li>Django & FastAPI Frameworks</li>
+  <li>Database Design & SQL</li>
+  <li>Cybersecurity Fundamentals</li>
+  <li>Modern Software Development Practices</li>
+</ul>
+
+###
+
 <h3 align="center">🛠️Frameworks & Tools</h3>
 
 ###
