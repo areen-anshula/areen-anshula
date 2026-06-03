@@ -7,12 +7,10 @@
 
 </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
-###
 
 <h2 align="left">📌About Me :</h2>
 
 ###
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=326&height=40&lines=AREEN+ANSHULA" alt="Typing SVG" /></a>
 </h1>
 
 Hi, I'm Areen Anshula, A student who is currently following <b><mark>Bsc.Information Technology(Hons) (University of Vavuniya, Sri Lanka)</mark></b> & <b><mark>Bachalor in Information Technology (University of Colombo school of computing)</mark></b>. My primary interests are <b><mark>Machine Learning</mark></b>, <b><mark>Artificial Intelligence</mark></b>, <b><mark>Cybersecurity</mark></b>, and <b><mark>Software Development</mark></b>. 
