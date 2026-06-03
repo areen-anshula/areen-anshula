@@ -3,7 +3,7 @@
 ###
 
 <h1 align="center">
-  Hello 👋 I'm (https://readme-typing-svg.demolab.com/?lines=AREEN+ANSHULA)](https://git.io/typing-svg)
+  Hello 👋 I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AREEN+ANSHULA" alt="Typing SVG" /></a>
 </h1>
 
 ###
