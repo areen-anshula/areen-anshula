@@ -90,7 +90,7 @@ Beyond technical skills, I am deeply interested in entrepreneurship and the star
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" margin-top="50px" margin-bottom="50px">
   <tr>
     <td width="50%" align="center">
       <img
