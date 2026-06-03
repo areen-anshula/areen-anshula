@@ -90,7 +90,7 @@ Beyond technical skills, I am deeply interested in entrepreneurship and the star
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-
+![areen-anshula's GitHub Stats](https://readme-stats-github.pages.dev/api?username=areen-anshula&theme=shadow)
 
 ###
 
