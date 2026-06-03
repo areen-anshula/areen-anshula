@@ -3,9 +3,7 @@
 ###
 
 <h1 align="center">
-  Hello 👋 I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=326&height=40&lines=AREEN+ANSHULA" alt="Typing SVG" /></a>
-</h1>
-
+  Hello 👋 I'm Areen Anshula
 ###
 
 <h2 align="left">📌About Me :</h2>
