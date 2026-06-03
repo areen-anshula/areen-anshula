@@ -12,12 +12,8 @@
 
 ###
 
-<ul>
-  <li><p>👨‍🎓I'm studying at <b>University of Vavuniya(Bsc.IT(Hons)) & UCSC(BIT)</b></p></li>
-  <li><p>👯 I’m looking to collaborate.</p></li>
-  <li><p>🤔 I’m looking for help with Coding.</p></li>
-</ul>
-
+Hi, I'm Areen Anshula, A student who is currently following <b>Bsc.Information Technology(Hons) (University of Vavuniya, Sri Lanka) & Bachalor in Information Technology (University of Colombo school of computing)</b>. My primary interests are <b>Machine Learning, Artificial Intelligence, Cybersecurity, Software Development.</b> I enjoy exploring how technology can be used to solve real-world problems and create products that positively impact people's lives.
+Beyond technical skills, I am deeply interested in entrepreneurship and the startup ecosystem. My long-term goal is to develop innovative software products, launch successful technology ventures, and contribute meaningful solutions to the world through technology.
 ###
 
 <h2 align="left">🧠My Focus Area :</h2>
