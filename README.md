@@ -12,18 +12,19 @@
 
 ###
 
-Hi, I'm Areen Anshula, A student who is currently following <b><mark>Bsc.Information Technology(Hons) (University of Vavuniya, Sri Lanka)</mark></b> & <b><mark>Bachalor in Information Technology (University of Colombo school of computing)</mark></b>. My primary interests are <b><mark>Machine Learning</mark></b>, <b><mark>Artificial Intelligence</mark></b>, <b><mark>Cybersecurity</mark></b>, <b><mark>Software Development</mark></b>. 
+Hi, I'm Areen Anshula, A student who is currently following <b><mark>Bsc.Information Technology(Hons) (University of Vavuniya, Sri Lanka)</mark></b> & <b><mark>Bachalor in Information Technology (University of Colombo school of computing)</mark></b>. My primary interests are <b><mark>Machine Learning</mark></b>, <b><mark>Artificial Intelligence</mark></b>, <b><mark>Cybersecurity</mark></b>, and <b><mark>Software Development</mark></b>. 
 </br>I enjoy exploring how technology can be used to solve real-world problems and create products that positively impact people's lives.
 Beyond technical skills, I am deeply interested in entrepreneurship and the startup ecosystem. My long-term goal is to develop innovative software products, launch successful technology ventures, and contribute meaningful solutions to the world through technology.
 ###
 
-<h2 align="left">🧠My Focus Area :</h2>
+<h2 align="left">🧠Areas of Interest :</h2>
 
 ###
 
 <ul>
-  <li>AI Engineering</li>
-  <li>Cybersecurity</li>
+  <li>Machine Learning & Artificial Intelligence</li>
+  <li>Cybersecurity (Security Engineering)</li>
+  <li>Full-Stack Web Development</li>
 </ul>
 
 ###
