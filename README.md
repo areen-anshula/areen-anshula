@@ -90,18 +90,20 @@ Beyond technical skills, I am deeply interested in entrepreneurship and the star
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-<table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
+    <td width="50%" align="center">
       <img
         src="https://readme-stats-github.pages.dev/api?username=areen-anshula&theme=shadow"
         alt="areen-anshula's GitHub Stats"
+        width="100%"
       />
     </td>
-    <td>
+    <td width="50%" align="center">
       <img
         src="https://readme-stats-github.pages.dev/api/top-langs?username=areen-anshula&theme=shadow"
         alt="Top Languages"
+        width="100%"
       />
     </td>
   </tr>
